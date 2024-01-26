@@ -13,7 +13,7 @@ def send_put_request(endpoint, data=None, headers=None, timeout=5):
     return response
 
 def main():
-    trainer_token = "d5b77261359b0086d523dee1a3a26d0c"
+    trainer_token = "твойтокен из котика"
 
     headers = {
         'Content-Type': 'application/json',
